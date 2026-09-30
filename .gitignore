@@ -1,0 +1,6 @@
+/target
+.DS_Store
+/.idea
+OneLauncher.iml
+
+/packages/oneclient_app/icons/generated/
