@@ -5,6 +5,10 @@
 # OneClient  |  OneLauncher
 The monorepo containing the code for OneLauncher, OneClient, and their core backend.
 
+THIS ISNT OFFICIAL GITHUB FOR ONECLIENT THIS IS MODIFIED CODE BUT SAFE TO USE IN HERE U CAN PLAY CRACKED MINECRAFT WITH ONECLIENT
+
+OFFICIAL ONECLIENT WEBSITE https://polyfrost.com
+
 OneClient is a Minecraft client featuring fully 100% open-source components, offering many packaged and pre-configured mods in one click.
 OneLauncher is a WIP Minecraft launcher giving power-users the greatest customization whilst featuring a clean UI.
 
